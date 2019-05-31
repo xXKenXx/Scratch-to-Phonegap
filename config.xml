@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[292834377]"
+        id          = "aboringdayinsummer.fazeken.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[A boring day in summer]</name>
+    <name>A boring day in summer</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
-        [FaZeken]
+    <author href="http://scratch.mit.edu/users/[fazeken" email="none@email.com">
+        FaZeken
     </author>
 
 </widget>
